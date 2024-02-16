@@ -1,1 +1,1 @@
-print('hello from dev b ft2')
+print('hello')

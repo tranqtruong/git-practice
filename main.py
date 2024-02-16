@@ -4,3 +4,5 @@ print('hello developers')
 
 
 # dev B add code here
+def sub(a, b):
+    return a-b
